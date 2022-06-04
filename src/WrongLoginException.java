@@ -3,3 +3,4 @@ public class WrongLoginException extends Exception{
         super(message);
     }
 }
+// Логин- исключение
