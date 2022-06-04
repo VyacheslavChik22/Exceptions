@@ -17,7 +17,7 @@ public class Validator {
 
         }
     }
-
+// Проверки
     private static void validate(String login,
                                  String password,
                                  String confirmPassword) throws WrongLoginException, WrongPasswordException {
